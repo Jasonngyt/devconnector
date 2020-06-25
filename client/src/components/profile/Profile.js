@@ -6,6 +6,7 @@ import Spinner from '../layout/Spinner';
 import ProfileAbout from './ProfileAbout';
 import ProfileExperience from './ProfileExperience';
 import ProfileEducation from './ProfileEducation';
+import ProfileGithub from './ProfileGithub';
 import ProfileTop from './ProfileTop';
 import { getProfileById } from '../../actions/profile';
 
@@ -66,9 +67,13 @@ const Profile = ({
                   ))}
                 </Fragment>
               ) : (
-                <h4> No experience credentials </h4>
+                <h4> No education credentials </h4>
               )}
             </div>
+
+            {profile.githubusername && (
+              <ProfileGithub username={profile.githubusername} />
+            )}
           </div>
         </Fragment>
       )}
