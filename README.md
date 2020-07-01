@@ -1,6 +1,6 @@
 # Developer Connector
 
-#### Welcome to DevConnector. <br> A Website to connect all Developer. <br><br> Developer can create, edit and delete their Profile in this website. <br><br> They can also share their ideas in the Post section and give feedback on other Developer's Post.
+#### Welcome to DevConnector. <br><br> A Website to connect all Developer. <br><br> Developer can create, edit and delete their Profile in this website. <br> They can also share their ideas in the Post section and give feedback on other Developer's Post.
 
 <br> Deployed Link: https://afternoon-cove-31575.herokuapp.com/
 
