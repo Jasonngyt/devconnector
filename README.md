@@ -1,20 +1,22 @@
 # Developer Connector
 
-Deployed Link: https://afternoon-cove-31575.herokuapp.com/
+A Website to connect all Developer. Developer can create, edit and delete their Profile. <br> They can also share their ideas in the Post section and give feedback on other Developer's Post.
+
+<br> Deployed Link: https://afternoon-cove-31575.herokuapp.com/
 
 ## Technologies Used
 
-● React js /React Hook
-● Redux
-● Node js
-● Express
-● MongoDB
-● Postman
-● HTML
-● CSS
-● Google Fonts
-● JavaScript / ES6
-● GitHub
+● React js /React Hook <br>
+● Redux <br>
+● Node js <br>
+● Express <br>
+● MongoDB <br>
+● Postman <br>
+● HTML <br>
+● CSS <br>
+● Google Fonts <br>
+● JavaScript / ES6 <br>
+● GitHub <br>
 ● Heroku
 
 # Credits
